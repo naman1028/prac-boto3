@@ -1,0 +1,6 @@
+﻿S.No,instance-name,instance-type,Pkg
+1,demo-In1-tier1,t2.micro,apache2
+2,demo-In2-tier10,t2.micro,mariadb
+3,demo-In3-tier100,t2.micro,nginx
+4,demo-In4-tier1000,t2.micro,apache2
+5,demo-In5-tier10000,t2.micro,mysql-server
